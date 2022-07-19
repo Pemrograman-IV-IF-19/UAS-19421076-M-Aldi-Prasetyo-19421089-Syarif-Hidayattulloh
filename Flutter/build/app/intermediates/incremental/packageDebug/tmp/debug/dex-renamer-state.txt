@@ -1,0 +1,4 @@
+#Tue Jul 19 13:43:39 ICT 2022
+base.0=D\:\\Aldi\\logins_screen\\logins_screen\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
